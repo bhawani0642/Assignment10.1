@@ -1,7 +1,7 @@
 //Created another package named demo1 in the sane project
 package demo1;
 //Using import statement imported the package demo
-import demo.ClassA;
+import demo.*;
 //Created a class named ClassB
 public class ClassB {
 // 	Main method
